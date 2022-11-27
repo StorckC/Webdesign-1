@@ -1,0 +1,32 @@
+nav{
+    /*background-color: rgb(84, 17, 147);*/
+    width: 100%;
+    margin-bottom: 0;
+    padding: 1em;
+}
+.logo{
+    font-style: italic;
+    font-weight: bold;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: antiquewhite;
+}
+nav ul{
+    margin: 0;
+    padding: 0;
+    /*list-style: none;*/
+}
+nav ul li{
+    display:inline;
+    padding: 1em;
+    justify-content: right;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(251, 246, 240);
+}
+hr{
+    width: 100%;
+    position:relative;
+}
+body{
+    margin: 0;
+}
